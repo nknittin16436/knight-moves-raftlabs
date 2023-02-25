@@ -82,6 +82,7 @@ const ChessBoard = () => {
 
     return (
         <div>
+            <h1>Click on a square to generate possible moves</h1>
             {renderBoard()}
         </div>
     );
