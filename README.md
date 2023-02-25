@@ -1,6 +1,6 @@
 # Knight's Tour Chessboard
 ## This is a simple React app that allows a user to move a knight piece around an 8x8 chessboard. The app highlights all possible moves for the knight and allows the user to move the piece by clicking on a square.
-### Use Desktop for better experience
+### View it on Desktop for better experience
 [Deployed App](https://knight-moves-raftlabs.vercel.app)
 ## Available Scripts
 
